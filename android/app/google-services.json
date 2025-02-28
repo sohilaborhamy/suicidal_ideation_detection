@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011408186",
+    "project_id": "detection-app-23e70",
+    "storage_bucket": "detection-app-23e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011408186:android:e6a50119bf0e09c37b8403",
+        "android_client_info": {
+          "package_name": "com.example.detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoE7d7TwTCwZ_5_PoBvfgq_CmalQlwhvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
